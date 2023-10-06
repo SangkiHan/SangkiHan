@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=👋%20Hi,%20I’m%20SangkiHan&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=👋Welcome&desc=SangkiHan%20Profile&fontSize=50&descAlignY=70&descAlign=60&animation=fadeIn)
+
+<div align=center>
+  안녕하세요.<br/>
+  3년차 개발자 한상기입니다.<br/>
+  현재 Java Spring 개발자로 재직 중이며<br/>
+  업무 외에도 끊임없이 공부하고 노력하고 있습니다.
+</div>
 
 ------------
 
