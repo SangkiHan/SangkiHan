@@ -2,8 +2,7 @@
 
 <div align=center>
   안녕하세요!</br>
-  Java Spring 개발자 한상기입니다.</br>
-  현재 3년차로 근무 중이며,</br>
+  4년차 Java Spring 개발자 한상기입니다.</br>
   업무 외에도 항상 공부하고 발전하고 있습니다.
 </div>
 
