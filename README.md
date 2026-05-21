@@ -2,7 +2,7 @@
 
 <div align=center>
   안녕하세요!</br>
-  4년차 Java Spring 개발자 한상기입니다.</br>
+  5년차 풀스택 개발자 한상기입니다.</br>
   업무 외에도 항상 공부하고 발전하고 있습니다.
 </div>
 
@@ -10,7 +10,8 @@
 
 <div align=center>
   <h1>💻 Tech Stack 💻</h1>
-  <h3>Used As Main</h3>
+  
+  <h3>Backend</h3>
   <img src="https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -18,6 +19,7 @@
   </br>
   <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mybatis-DD282E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QueryDsl-4479A1?style=for-the-badge&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -33,20 +35,26 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"/>
-  <h3>Used As Least Once</h3>
-  <img src="https://img.shields.io/badge/QueryDsl-4479A1?style=for-the-badge&logoColor=white"/>
-  </br>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+
+  <h3>Frontend</h3>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </br>
-  <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+
+  <h3>AI Tools</h3>
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+
   <h3>IDE</h3>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  
   <h3>Cowork tool</h3>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
